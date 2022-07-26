@@ -1,0 +1,336 @@
+{
+  "status": "OK",
+  "results": [
+    {
+      "adx_keywords": "Monkeypox;Vaccination and Immunization;your-feed-science;World Health Organization;Africa;United States",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "There have been more than 16,000 cases in 75 countries, overwhelmingly among men who have sex with men.",
+      "title": "W.H.O. Declares Monkeypox Spread a Global Health Emergency",
+      "url": "https://www.nytimes.com/2022/07/23/health/monkeypox-pandemic-who.html",
+      "eta_id": 0,
+      "nytdsection": "health",
+      "media": [],
+      "updated": "2022-07-24 14:02:40",
+      "uri": "nyt://article/936058e3-4b51-5d44-8202-c1774866084e",
+      "type": "Article",
+      "org_facet": [
+        "World Health Organization"
+      ],
+      "per_facet": [],
+      "id": 100000008451395,
+      "asset_id": 100000008451395,
+      "subsection": "",
+      "geo_facet": [
+        "Africa",
+        "United States"
+      ],
+      "byline": "By Apoorva Mandavilli",
+      "published_date": "2022-07-23",
+      "des_facet": [
+        "Monkeypox",
+        "Vaccination and Immunization",
+        "your-feed-science"
+      ],
+      "section": "Health"
+    },
+    {
+      "adx_keywords": "Coronavirus (2019-nCoV);Coronavirus Omicron Variant;Coronavirus Risks and Safety Concerns;Immune System;Vaccination and Immunization;Antibodies;Disease Rates;United States",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "There has yet to be a variant that negates the benefits of vaccines.",
+      "title": "I’m a Virologist, and I’m Setting the Record Straight on Variants and Reinfections",
+      "url": "https://www.nytimes.com/2022/07/22/opinion/covid-omicron-variants-reinfection.html",
+      "eta_id": 0,
+      "nytdsection": "opinion",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "width": 75,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22Kamil_1/22Kamil_1-thumbStandard.jpg",
+              "height": 75,
+              "format": "Standard Thumbnail"
+            },
+            {
+              "width": 210,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22Kamil_1/22Kamil_1-mediumThreeByTwo210.jpg",
+              "height": 140,
+              "format": "mediumThreeByTwo210"
+            },
+            {
+              "width": 440,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22Kamil_1/22Kamil_1-mediumThreeByTwo440.jpg",
+              "height": 293,
+              "format": "mediumThreeByTwo440"
+            }
+          ],
+          "copyright": "Stephane Mahe/Reuters",
+          "caption": "",
+          "type": "image",
+          "subtype": "photo",
+          "approved_for_syndication": 1
+        }
+      ],
+      "updated": "2022-07-23 12:03:40",
+      "uri": "nyt://article/c8519fcd-1077-5235-a7a1-df9639685f83",
+      "type": "Article",
+      "org_facet": [],
+      "per_facet": [],
+      "id": 100000008450298,
+      "asset_id": 100000008450298,
+      "subsection": "",
+      "geo_facet": [
+        "United States"
+      ],
+      "byline": "By Jeremy Kamil",
+      "published_date": "2022-07-22",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Omicron Variant",
+        "Coronavirus Risks and Safety Concerns",
+        "Immune System",
+        "Vaccination and Immunization",
+        "Antibodies",
+        "Disease Rates"
+      ],
+      "section": "Opinion"
+    },
+    {
+      "adx_keywords": "Cannibalism;Writing and Writers;Books and Literature;Movies;Television",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "A spate of recent stomach-churning books, TV shows and films suggests we’ve never looked so delicious — to one another.",
+      "title": "A Taste for Cannibalism?",
+      "url": "https://www.nytimes.com/2022/07/23/style/cannibalism-tv-shows-movies-books.html",
+      "eta_id": 0,
+      "nytdsection": "style",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "width": 75,
+              "url": "https://static01.nyt.com/images/2022/07/24/fashion/24CANNIBALISM-cover/24CANNIBALISM-cover-thumbStandard.jpg",
+              "height": 75,
+              "format": "Standard Thumbnail"
+            },
+            {
+              "width": 210,
+              "url": "https://static01.nyt.com/images/2022/07/24/fashion/24CANNIBALISM-cover/24CANNIBALISM-cover-mediumThreeByTwo210.jpg",
+              "height": 140,
+              "format": "mediumThreeByTwo210"
+            },
+            {
+              "width": 440,
+              "url": "https://static01.nyt.com/images/2022/07/24/fashion/24CANNIBALISM-cover/24CANNIBALISM-cover-mediumThreeByTwo440.jpg",
+              "height": 293,
+              "format": "mediumThreeByTwo440"
+            }
+          ],
+          "copyright": "Paulina Almira",
+          "caption": "",
+          "type": "image",
+          "subtype": "photo",
+          "approved_for_syndication": 0
+        }
+      ],
+      "updated": "2022-07-24 10:41:10",
+      "uri": "nyt://article/d7e110d3-1ed7-5901-96b7-fef797fcb21e",
+      "type": "Article",
+      "org_facet": [],
+      "per_facet": [],
+      "id": 100000008445799,
+      "asset_id": 100000008445799,
+      "subsection": "",
+      "geo_facet": [],
+      "byline": "By Alex Beggs",
+      "published_date": "2022-07-23",
+      "des_facet": [
+        "Cannibalism",
+        "Writing and Writers",
+        "Books and Literature",
+        "Movies",
+        "Television"
+      ],
+      "section": "Style"
+    },
+    {
+      "adx_keywords": "",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "Feeling stuck on today’s puzzle? We can help.",
+      "title": "Spelling Bee Forum",
+      "url": "https://www.nytimes.com/2022/07/23/crosswords/spelling-bee-forum.html",
+      "eta_id": 0,
+      "nytdsection": "gameplay",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "width": 75,
+              "url": "https://static01.nyt.com/images/2022/07/23/crosswords/23bee-forum-sat/23bee-forum-sat-thumbStandard.jpg",
+              "height": 75,
+              "format": "Standard Thumbnail"
+            },
+            {
+              "width": 210,
+              "url": "https://static01.nyt.com/images/2022/07/23/crosswords/23bee-forum-sat/23bee-forum-sat-mediumThreeByTwo210.jpg",
+              "height": 140,
+              "format": "mediumThreeByTwo210"
+            },
+            {
+              "width": 440,
+              "url": "https://static01.nyt.com/images/2022/07/23/crosswords/23bee-forum-sat/23bee-forum-sat-mediumThreeByTwo440.jpg",
+              "height": 293,
+              "format": "mediumThreeByTwo440"
+            }
+          ],
+          "copyright": "Courtesy of Patricia Warner",
+          "caption": "",
+          "type": "image",
+          "subtype": "photo",
+          "approved_for_syndication": 0
+        }
+      ],
+      "updated": "2022-07-23 03:00:06",
+      "uri": "nyt://article/3342a058-90e7-579d-bbed-6d3a6d64fb34",
+      "type": "Article",
+      "org_facet": [],
+      "per_facet": [],
+      "id": 100000008446309,
+      "asset_id": 100000008446309,
+      "subsection": "",
+      "geo_facet": [],
+      "byline": "By New York Times Games",
+      "published_date": "2022-07-23",
+      "des_facet": [],
+      "section": "Gameplay"
+    },
+    {
+      "adx_keywords": "Names, Personal;Women and Girls;Marriages;Celebrities;Lopez, Jennifer;Affleck, Ben",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "I like the romance of Bennifer 2.0 as much as the next person, but her name change makes me wince.",
+      "title": "Why It Matters That J-Lo Is Now J-Aff",
+      "url": "https://www.nytimes.com/2022/07/23/opinion/jlo-jennifer-lopez-ben-affleck.html",
+      "eta_id": 0,
+      "nytdsection": "opinion",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "width": 75,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22weiner_2/22weiner_2-thumbStandard-v2.jpg",
+              "height": 75,
+              "format": "Standard Thumbnail"
+            },
+            {
+              "width": 210,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22weiner_2/22weiner_2-mediumThreeByTwo210-v2.jpg",
+              "height": 140,
+              "format": "mediumThreeByTwo210"
+            },
+            {
+              "width": 440,
+              "url": "https://static01.nyt.com/images/2022/07/22/multimedia/22weiner_2/22weiner_2-mediumThreeByTwo440-v2.jpg",
+              "height": 293,
+              "format": "mediumThreeByTwo440"
+            }
+          ],
+          "copyright": "Filippo Monteforte/Agence France-Presse — Getty Images",
+          "caption": "",
+          "type": "image",
+          "subtype": "photo",
+          "approved_for_syndication": 1
+        }
+      ],
+      "updated": "2022-07-24 09:03:26",
+      "uri": "nyt://article/26667a1f-7ec1-58ce-b287-e50c5f98bac3",
+      "type": "Article",
+      "org_facet": [],
+      "per_facet": [
+        "Lopez, Jennifer",
+        "Affleck, Ben"
+      ],
+      "id": 100000008455228,
+      "asset_id": 100000008455228,
+      "subsection": "",
+      "geo_facet": [],
+      "byline": "By Jennifer Weiner",
+      "published_date": "2022-07-23",
+      "des_facet": [
+        "Names, Personal",
+        "Women and Girls",
+        "Marriages",
+        "Celebrities"
+      ],
+      "section": "Opinion"
+    },
+    {
+      "adx_keywords": "Content Type: Service;Teeth and Dentistry;Fluorides;Food;Fruit;Sugar;Bacteria;Diet and Nutrition;Acids;Vegetables;Xylitol",
+      "column": null,
+      "source": "New York Times",
+      "abstract": "When assessing how likely a given meal, snack or drink is to harm your dental health, there are two main things to consider, experts say.",
+      "title": "The Worst Foods and Drinks for Your Teeth",
+      "url": "https://www.nytimes.com/2022/07/18/well/eat/teeth-decay-food-drinks.html",
+      "eta_id": 0,
+      "nytdsection": "well",
+      "media": [
+        {
+          "media-metadata": [
+            {
+              "width": 75,
+              "url": "https://static01.nyt.com/images/2022/07/14/well/14WELL-TEETH3/14WELL-TEETH3-thumbStandard.jpg",
+              "height": 75,
+              "format": "Standard Thumbnail"
+            },
+            {
+              "width": 210,
+              "url": "https://static01.nyt.com/images/2022/07/14/well/14WELL-TEETH3/14WELL-TEETH3-mediumThreeByTwo210-v2.jpg",
+              "height": 140,
+              "format": "mediumThreeByTwo210"
+            },
+            {
+              "width": 440,
+              "url": "https://static01.nyt.com/images/2022/07/14/well/14WELL-TEETH3/14WELL-TEETH3-mediumThreeByTwo440-v2.jpg",
+              "height": 293,
+              "format": "mediumThreeByTwo440"
+            }
+          ],
+          "copyright": "Kelsey McClellan for The New York Times",
+          "caption": "",
+          "type": "image",
+          "subtype": "photo",
+          "approved_for_syndication": 1
+        }
+      ],
+      "updated": "2022-07-20 13:38:30",
+      "uri": "nyt://article/76046bbf-bb8a-5fb9-9e72-c853fe4b6266",
+      "type": "Article",
+      "org_facet": [],
+      "per_facet": [],
+      "id": 100000008424865,
+      "asset_id": 100000008424865,
+      "subsection": "Eat",
+      "geo_facet": [],
+      "byline": "By Hannah Seo",
+      "published_date": "2022-07-18",
+      "des_facet": [
+        "Content Type: Service",
+        "Teeth and Dentistry",
+        "Fluorides",
+        "Food",
+        "Fruit",
+        "Sugar",
+        "Bacteria",
+        "Diet and Nutrition",
+        "Acids",
+        "Vegetables",
+        "Xylitol"
+      ],
+      "section": "Well"
+    }
+  ],
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20
+}
